@@ -1,0 +1,251 @@
+# depslib dependency file v1.0
+1575208106 source:d:\program files\programmieren\c++\projekte c++\gui\function.cpp
+
+1575208803 source:d:\program files\programmieren\c++\projekte c++\gui\main.cpp
+	<windows.h>
+
+1575208106 source:d:\program files\programmieren\c++\projekte c++\gui2\function.cpp
+
+1575208106 source:d:\program files\programmieren\c++\projekte c++\gui4\function.cpp
+
+1575228829 source:d:\program files\programmieren\c++\projekte c++\gui4\main.cpp
+	<windows.h>
+
+1575208106 source:d:\program files\programmieren\c++\projekte c++\gui5\function.cpp
+
+1575239146 source:d:\program files\programmieren\c++\projekte c++\gui5\main.cpp
+	"windows.h"
+	<iostream>
+
+1575208106 source:d:\program files\programmieren\c++\projekte c++\gui6\function.cpp
+
+1575719696 source:d:\program files\programmieren\c++\projekte c++\gui6\main.cpp
+	"windows.h"
+	<iostream>
+
+1575208106 source:d:\program files\programmieren\c++\projekte c++\gui7\function.cpp
+
+1575723226 source:d:\program files\programmieren\c++\projekte c++\gui7\main.cpp
+	"windows.h"
+	<iostream>
+
+1575208106 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt03022020\function.cpp
+
+1580684233 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt03022020\main.cpp
+	<iostream>
+	"main.h"
+
+1580683809 d:\program files\programmieren\c++\projekte c++\datenbankobjekt03022020\main.h
+	"windows.h"
+
+1575208106 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt09022020\function.cpp
+
+1581267512 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt09022020\main.cpp
+	<iostream>
+	"main.h"
+	"datenbank.h"
+
+1581266565 d:\program files\programmieren\c++\projekte c++\datenbankobjekt09022020\main.h
+	"windows.h"
+
+1581267321 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt09022020\datenbank.cpp
+	<iostream>
+	"datenbank.h"
+
+1581266918 d:\program files\programmieren\c++\projekte c++\datenbankobjekt09022020\datenbank.h
+	"windows.h"
+	"mysql.h"
+	"string.h"
+
+1476109533 d:\program files\programmieren\c++\header\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476109546 d:\program files\programmieren\c++\header\mysql_com.h
+
+1476109572 d:\program files\programmieren\c++\header\mysql_time.h
+
+1476109583 d:\program files\programmieren\c++\header\mysql_version.h
+	<custom_conf.h>
+
+1476109723 d:\program files\programmieren\c++\header\typelib.h
+
+1476109768 d:\program files\programmieren\c++\header\my_list.h
+
+1476109777 d:\program files\programmieren\c++\header\my_alloc.h
+
+1575208106 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt09022020 2\function.cpp
+
+1581274839 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt09022020 2\main.cpp
+	<iostream>
+	"main.h"
+	"datenbank.h"
+
+1581266565 d:\program files\programmieren\c++\projekte c++\datenbankobjekt09022020 2\main.h
+	"windows.h"
+
+1581273729 d:\program files\programmieren\c++\projekte c++\datenbankobjekt09022020 2\datenbank.h
+	"windows.h"
+	"mysql.h"
+	"string.h"
+	<vector>
+
+1581274911 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt09022020 2\datenbank.cpp
+	<iostream>
+	"datenbank.h"
+
+1581863792 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt16022020\datenbank.cpp
+	<iostream>
+	"datenbank.h"
+
+1581864119 d:\program files\programmieren\c++\projekte c++\datenbankobjekt16022020\datenbank.h
+	"windows.h"
+	"mysql.h"
+	"string.h"
+	<vector>
+	<ctime>
+	<sstream>
+
+1575208106 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt16022020\function.cpp
+
+1581861176 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt16022020\main.cpp
+	<iostream>
+	"main.h"
+	"datenbank.h"
+
+1581276262 d:\program files\programmieren\c++\projekte c++\datenbankobjekt16022020\main.h
+	<string>
+	<sstream>
+	"windows.h"
+
+1582378937 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt22022020\datenbank.cpp
+	<iostream>
+	"datenbank.h"
+
+1582379380 d:\program files\programmieren\c++\projekte c++\datenbankobjekt22022020\datenbank.h
+	"windows.h"
+	"mysql.h"
+	"string.h"
+	<vector>
+	<ctime>
+	<sstream>
+
+1575208106 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt22022020\function.cpp
+
+1582379554 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt22022020\main.cpp
+	<iostream>
+	<string>
+	"main.h"
+	"datenbank.h"
+
+1581276262 d:\program files\programmieren\c++\projekte c++\datenbankobjekt22022020\main.h
+	<string>
+	<sstream>
+	"windows.h"
+
+1582498321 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt23022020\datenbank.cpp
+	<iostream>
+	"datenbank.h"
+
+1582497812 d:\program files\programmieren\c++\projekte c++\datenbankobjekt23022020\datenbank.h
+	"windows.h"
+	"mysql.h"
+	"string.h"
+	<vector>
+	<ctime>
+	<sstream>
+
+1575208106 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt23022020\function.cpp
+
+1582497804 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt23022020\main.cpp
+	<iostream>
+	<string>
+	"main.h"
+	"datenbank.h"
+
+1581276262 d:\program files\programmieren\c++\projekte c++\datenbankobjekt23022020\main.h
+	<string>
+	<sstream>
+	"windows.h"
+
+1575211706 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt24022020\function.cpp
+
+1582501404 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt24022020\main.cpp
+	<iostream>
+	<string>
+	"main.h"
+	"datenbank.h"
+
+1581279862 d:\program files\programmieren\c++\projekte c++\datenbankobjekt24022020\main.h
+	<string>
+	<sstream>
+	"windows.h"
+
+1582501412 d:\program files\programmieren\c++\projekte c++\datenbankobjekt24022020\datenbank.h
+	"windows.h"
+	"mysql.h"
+	"string.h"
+	<vector>
+	<ctime>
+	<sstream>
+
+1582666424 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt24022020\datenbank.cpp
+	<iostream>
+	"datenbank.h"
+
+1582666424 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt24022020 - gui fuer github\datenbank.cpp
+	<iostream>
+	"datenbank.h"
+
+1582501412 d:\program files\programmieren\c++\projekte c++\datenbankobjekt24022020 - gui fuer github\datenbank.h
+	"windows.h"
+	"mysql.h"
+	"string.h"
+	<vector>
+	<ctime>
+	<sstream>
+
+1575211706 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt24022020 - gui fuer github\function.cpp
+
+1582501404 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt24022020 - gui fuer github\main.cpp
+	<iostream>
+	<string>
+	"main.h"
+	"datenbank.h"
+
+1581279862 d:\program files\programmieren\c++\projekte c++\datenbankobjekt24022020 - gui fuer github\main.h
+	<string>
+	<sstream>
+	"windows.h"
+
+1703859281 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt29122023g\datenbank.cpp
+	<iostream>
+	"datenbank.h"
+
+1703859468 d:\program files\programmieren\c++\projekte c++\datenbankobjekt29122023g\datenbank.h
+	"windows.h"
+	"mysql.h"
+	"string.h"
+	<vector>
+	<ctime>
+	<sstream>
+
+1575208106 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt29122023g\function.cpp
+
+1582497804 source:d:\program files\programmieren\c++\projekte c++\datenbankobjekt29122023g\main.cpp
+	<iostream>
+	<string>
+	"main.h"
+	"datenbank.h"
+
+1581276262 d:\program files\programmieren\c++\projekte c++\datenbankobjekt29122023g\main.h
+	<string>
+	<sstream>
+	"windows.h"
+
